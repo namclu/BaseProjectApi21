@@ -9,6 +9,7 @@ When using the app as a starter project, don't forget to update the following
 1. Rename the package
 2. Update `strings.xml`
 3. Update `applicationId` in your `build.gradle (Module: app)` and sync
+4. Update to point to new Git repo
 
 ## Images
 Image 1 | Image 2
